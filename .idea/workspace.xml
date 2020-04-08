@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aGwTKaXKCQrPfy6Noo6mXduXk0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -34,13 +35,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586375244252</updated>
+      <workItem from="1586375245571" duration="247000" />
     </task>
+    <task id="LOCAL-00001" summary="add class Vector3d">
+      <created>1586375386938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586375386938</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add class Vector2d">
+      <created>1586375414754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586375414755</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add class Main, and check project - worked">
+      <created>1586375455526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586375455526</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add class Vector3d" />
+    <MESSAGE value="add class Vector2d" />
+    <MESSAGE value="add class Main, and check project - worked" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class Main, and check project - worked" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="234" y="0" key="CommitChangelistDialog2" timestamp="1586375414565">
+    <state x="234" y="0" key="CommitChangelistDialog2" timestamp="1586375455303">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="234" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1586375414565" />
+    <state x="234" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1586375455303" />
   </component>
 </project>
